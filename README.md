@@ -1,3 +1,3 @@
 Đồ án nhóm 5 người
 Phụ trách Back-end Developer
-Vai trò: thiết kế cơ sở dữ liệu, xây dựng các API với những chức năng thêm xóa sửa khách sạn, phòng khách sạn, phân quyền admin và user
+Vai trò: thiết kế cơ sở dữ liệu, xây dựng các API với những chức năng thêm xóa sửa khách sạn, phòng khách sạn, phân quyền admin và user......
